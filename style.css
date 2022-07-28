@@ -2,6 +2,7 @@ html{
     font-size: 62.5%;
 }
 .game{
+background-color: cornflowerblue;
     padding-top: 10rem;
     max-width: 50rem;
     min-height: 30rem;
@@ -27,4 +28,16 @@ html{
 }
 .game >  button:hover{
     transform: scaleX(20px);
+}
+#l1{
+    border-bottom: 1rem solid rgb(166, 108, 108);
+    display: inline-block;
+    width: 8.1rem;
+}
+#inp-1{
+    border-radius: 62px;
+    padding: 10px 10px;
+    width: 32rem;
+    border: 1px solid black;
+    box-shadow: 5px 10px 8px #211f1f;
 }
