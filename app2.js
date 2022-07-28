@@ -1,0 +1,1 @@
+var new1 = ["ahmed raza" , "muhammad hassan" , "muhammad saad" , "muhammad nadeem" , "saima nadeem"]

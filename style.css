@@ -1,0 +1,30 @@
+html{
+    font-size: 62.5%;
+}
+.game{
+    padding-top: 10rem;
+    max-width: 50rem;
+    min-height: 30rem;
+    border: 0.1rem solid black;
+    text-align: center;
+    font-size: 2rem;
+    margin: 0 auto;
+}
+.game >  button{
+    background-color: #f0835b; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    transition: all 2s;
+}
+.game >  button:hover{
+    transform: scaleX(20px);
+}
